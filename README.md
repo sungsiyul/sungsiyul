@@ -1,19 +1,21 @@
-# Intro 👋
+# 👋 Welcome
+Hi, My name is Siyul Sung.
+- 🔭 I am working as an intern at the Inha University Data Science Lab From 08/2022.
+- 🌱 I’m currently researching about speech signal processing and outlier detection.
+- 💬 If you have any questions my project, please contact me through email (tjdtlduf1@naver.com).
 
-<!--
-**sungsiyul/sungsiyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github!
+## 📌 Goal
+AI Engineer
 
-Here are some ideas to get you started:
+## 📖 Education
+Inha University, Incheon, South Korea (2018.03-2024.02)
+- Double Major in Department of Industrial Engineering & Information and Communication Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interests
+- Multimodal
+- 3D Pose Detection
+- Outlier Detection
 
-<a href="클릭시 이동할 링크" target="_blank">
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+## 💻 Stack
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-orange?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
