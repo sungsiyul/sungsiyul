@@ -1,4 +1,4 @@
-### Hi there 👋
+# Intro 👋
 
 <!--
 **sungsiyul/sungsiyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="클릭시 이동할 링크" target="_blank">
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
