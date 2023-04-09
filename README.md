@@ -12,5 +12,5 @@ Welcome to my Github!
 - 3D Pose Detection
 
 ## 💻 Stack
-<img src="https://img.shields.io/badge/Linux-4700A5?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/PYTHON-1E05FF?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-ffa500?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-4700A5?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Python-1E05FF?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-ffa500?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-f42a1b?style=flat-square&logo=pytorch&logoColor=white"/>
