@@ -14,4 +14,4 @@ Welcome to my Github!
 
 ## 💻 Stack
 <img src="https://img.shields.io/badge/Linux-4700A5?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Python-1E05FF?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-ffa500?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
