@@ -11,6 +11,7 @@ Welcome to my Github!
 - Multimodal
 - Speech Recognition
 - 3D Pose Detection
+- Artificial General Intelligence
 
 ## 💻 Stack
 <img src="https://img.shields.io/badge/Linux-4700A5?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
