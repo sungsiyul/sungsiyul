@@ -10,7 +10,6 @@ Welcome to my Github!
 ## 💡 Interests
 - Multimodal
 - Speech Recognition
-- 3D Pose Detection
 - Artificial General Intelligence
 
 ## 💻 Stack
