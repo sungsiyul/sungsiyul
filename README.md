@@ -2,7 +2,7 @@
 Hi, My name is Siyul Sung.
 - 📚  I'm a BS student in Department of Industrial Engineering & Information and Communication Engineering at Inha University
 - 💼 I am working as an intern at the Technical Approach for Computing Trend Information & Convergence System Lab (TACTICS Lab)
-- 📈 I’m currently researching about speech signal processing.
+- 📈 I’m currently researching about Speech Signal processing and Anomaly Detection
 - 📧 If you have any questions my project, please contact me through email (tjdtlduf1@naver.com).
 
 Welcome to my Github!
