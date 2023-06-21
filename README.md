@@ -10,6 +10,7 @@ Welcome to my Github!
 ## 💡 Interests
 - Multimodal
 - Machine Intelligence
+- 3D Pose Estimation
 - Semi-Supervised Learning
 
 ## 💻 Stack
