@@ -2,8 +2,8 @@
 
 # 👋 Welcome
 Hi, My name is Siyul Sung.
-- 📚  I'm a BS student in Department of Industrial Engineering & Information and Communication Engineering at Inha University
 - 💼 I am working at the Data Science & Business Analytics Lab (DSBA Lab)
+- 📚 I'm a M.S student in Department of Industrial Engineering & Information and Communication Engineering at Korea University
 - 📧 If you have any questions my project, please contact me through email (sungsiyul1005@gmail.com).
 
 Welcome to my Github!
